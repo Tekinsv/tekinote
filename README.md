@@ -1,22 +1,52 @@
 # Tekinote
 
-Notion tarzı notlar, fotoğraf üzerine çizim, detaylı takvim ve özel günler — tek bir Windows programında.
+**Notes, drawing on photos and a detailed calendar — in one simple Windows app.**
+Your notes stay on your own computer. No account, no ads, no subscription.
 
-## İndir
+![Tekinote pages](docs/screenshot-page.png)
 
-👉 **[En son sürümü indir](https://github.com/Tekinsv/tekinote/releases/latest)** — `Tekinote-Kurulum-x.x.x.exe` dosyasını indirip çift tıkla.
+## Download
 
-Windows "Bilgisayarınız korundu" uyarısı verirse: **Ek bilgi → Yine de çalıştır**.
-(Program dijital imzalı olmadığı için bu uyarı çıkar.)
+👉 **[Download the latest version](https://github.com/Tekinsv/tekinote/releases/latest)** — get `Tekinote-Setup-x.x.x.exe` and double-click it.
 
-## Özellikler
+If Windows shows "Windows protected your PC": click **More info → Run anyway**.
+(The app isn't code-signed yet, which is why Windows shows this warning.)
 
-- Sayfalar, alt sayfalar, `/` komut menüsü, listeler, yapılacaklar, renkler
-- Fotoğraf ekleme ve üzerine kalem, ok, şekil, yazı ile çizim
-- Ay / hafta / gün / ajanda / yıl görünümlü takvim, fotoğraflı ve geri sayımlı özel günler
-- Web sitelerini sayfa olarak içeride açma ve üzerine çizim
-- Şifreli sayfalar
-- Otomatik yedekleme (USB, başka disk ya da Drive/OneDrive klasörüne)
-- Otomatik güncelleme: yeni sürüm çıkınca sağ üstte yeşil **Güncelle** düğmesi belirir
+## Features
 
-Notların yalnızca kendi bilgisayarında saklanır; internete gönderilmez.
+- **Pages & subpages** with a `/` command menu, headings, lists, to-dos, toggles, quotes, code and colors
+- **Photos you can draw on** — pen, highlighter, arrows, shapes and text
+- **Detailed calendar** — month / week / day / agenda / year views, recurring events, reminders, categories
+- **Special days** with photos and a countdown (birthdays, anniversaries…)
+- **Public holidays** for the United States and Turkey
+- **Websites as pages** — open any site inside Tekinote and draw on it
+- **Password-locked pages** (AES-256 encryption)
+- **Automatic backups** to any folder — a USB drive, another disk, or your Google Drive / OneDrive folder
+- **Automatic updates** — when a new version is out, a green **Update** button appears at the top right
+- **English and Turkish** interface (Settings → Appearance → Language)
+
+![Tekinote calendar](docs/screenshot-calendar.png)
+
+## Your data
+
+Everything is stored locally on your computer and is never uploaded anywhere.
+To be safe if your computer breaks: go to **Settings → Backup** and choose a USB drive or a cloud-synced folder.
+On a new computer, install Tekinote and use **Restore from backup**.
+
+## Support Tekinote
+
+Tekinote is free and made by a single developer. If you find it useful, you can help:
+
+- ⭐ **Star this repository** — it helps other people find Tekinote
+- 🐞 **[Report a bug or suggest a feature](https://github.com/Tekinsv/tekinote/issues)**
+- 💬 **Tell a friend** about Tekinote
+- ❤️ **Donations** — coming soon
+
+---
+
+### Türkçe
+
+Tekinote; notlar, fotoğraf üzerine çizim ve detaylı takvim içeren ücretsiz bir Windows programıdır.
+[En son sürümü indir](https://github.com/Tekinsv/tekinote/releases/latest), `Tekinote-Setup-x.x.x.exe` dosyasına çift tıkla.
+Windows uyarı verirse: **Ek bilgi → Yine de çalıştır**.
+Program dilini **Ayarlar → Görünüm → Dil** bölümünden Türkçe yapabilirsin.
