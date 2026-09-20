@@ -9,6 +9,8 @@ Your notes stay on your own computer. No account, no ads, no subscription.
 
 ## Download
 
+🌐 **[tekinsv.github.io/tekinote](https://tekinsv.github.io/tekinote/)** — the Tekinote website
+
 👉 **[Download the latest version](https://github.com/Tekinsv/tekinote/releases/latest)** — get `Tekinote-Setup-x.x.x.exe` and double-click it.
 
 If Windows shows "Windows protected your PC": click **More info → Run anyway**.
