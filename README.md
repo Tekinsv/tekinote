@@ -3,7 +3,9 @@
 **Notes, drawing on photos and a detailed calendar — in one simple Windows app.**
 Your notes stay on your own computer. No account, no ads, no subscription.
 
-![Tekinote pages](docs/screenshot-page.png)
+![Tekinote demo](docs/demo.gif)
+
+*Write, draw, open websites inside your notes, lock a page with a password, and keep a calendar of special days.*
 
 ## Download
 
@@ -19,11 +21,14 @@ If Windows shows "Windows protected your PC": click **More info → Run anyway**
 - **Detailed calendar** — month / week / day / agenda / year views, recurring events, reminders, categories
 - **Special days** with photos and a countdown (birthdays, anniversaries…)
 - **Public holidays** for the United States and Turkey
-- **Websites as pages** — open any site inside Tekinote and draw on it
-- **Password-locked pages** (AES-256 encryption)
+- **Websites as pages** — open any website inside Tekinote, browse it, and draw right on top of it; your marks stay where you put them while the page scrolls
+- **Password-locked pages** — text, photos and drawings are encrypted (PBKDF2 + AES-256-GCM). Without the password nobody can read them, not even on the same computer
+- **Share a page** as a single file, with its subpages, photos and drawings
 - **Automatic backups** to any folder — a USB drive, another disk, or your Google Drive / OneDrive folder
 - **Automatic updates** — when a new version is out, a green **Update** button appears at the top right
 - **English and Turkish** interface (Settings → Appearance → Language)
+
+![Tekinote pages](docs/screenshot-page.png)
 
 ![Tekinote calendar](docs/screenshot-calendar.png)
 
