@@ -23,6 +23,10 @@ If Windows shows "Windows protected your PC": click **More info → Run anyway**
 - **Detailed calendar** — month / week / day / agenda / year views, recurring events, reminders, categories
 - **Special days** with photos and a countdown (birthdays, anniversaries…)
 - **Public holidays** for the United States and Turkey
+- **Screen grabs** — press Ctrl+Shift+2 anywhere in Windows, drag over any part of the screen, and it lands in your page ready to draw on
+- **Quick note from anywhere** — Ctrl+Alt+N opens a small box; what you type is saved to your Quick notes page
+- **Page history** — older versions of every page are kept on your computer; restore any of them with one click
+- **Search inside pictures** — screenshots and photos are read with Windows' offline OCR, so a word inside an image finds the page
 - **Websites as pages** — open any website inside Tekinote, browse it, and draw right on top of it; your marks stay where you put them while the page scrolls
 - **Password-locked pages** — text, photos and drawings are encrypted (PBKDF2 + AES-256-GCM). Without the password nobody can read them, not even on the same computer
 - **Share a page** as a single file, with its subpages, photos and drawings
