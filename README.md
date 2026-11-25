@@ -11,6 +11,8 @@ Your notes stay on your own computer. No account, no ads, no subscription.
 
 🌐 **[tekinsv.github.io/tekinote](https://tekinsv.github.io/tekinote/)** — the Tekinote website
 
+[![Sponsor](https://img.shields.io/badge/%E2%9D%A4-Sponsor%20Tekinote-db61a2?style=flat-square)](https://github.com/sponsors/Tekinsv)
+
 👉 **[Download the latest version](https://github.com/Tekinsv/tekinote/releases/latest)** — get `Tekinote-Setup-x.x.x.exe` and double-click it.
 
 If Windows shows "Windows protected your PC": click **More info → Run anyway**.
@@ -51,7 +53,7 @@ Tekinote is free and made by a single developer. If you find it useful, you can 
 - ⭐ **Star this repository** — it helps other people find Tekinote
 - 🐞 **[Report a bug or suggest a feature](https://github.com/Tekinsv/tekinote/issues)**
 - 💬 **Tell a friend** about Tekinote
-- ❤️ **Donations** — coming soon
+- ❤️ **[Become a sponsor](https://github.com/sponsors/Tekinsv)** — any amount keeps the work going; GitHub takes no cut
 
 ---
 
